@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/go-gypsy (fetch)
+origin	git@github.com:skyportsystems/go-gypsy (push)
+upstream	https://github.com/kylelemons/go-gypsy.git (fetch)
+upstream	https://github.com/kylelemons/go-gypsy.git (push)
